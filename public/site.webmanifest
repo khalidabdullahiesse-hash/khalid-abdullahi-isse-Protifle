@@ -1,0 +1,9 @@
+{
+  "name": "Khalid Abdullahi Isse Portfolio",
+  "short_name": "Khalid.Isse",
+  "description": "Portfolio of Full-Stack Web Developer and System Administrator Khalid Abdullahi Isse.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070708",
+  "theme_color": "#070708"
+}
